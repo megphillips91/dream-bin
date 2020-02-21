@@ -1,4 +1,5 @@
 # Dreams
+This is a brainstorming document and very stream of consciousness.
 
 1. WP Omni-Channel Funnel Optimization
  so I want to build and have started to build a plugin that would provide a way for DIY or small agencies to properly coordinate GA with WP so that journeys, funnels, and conversion opportunities are tracked and measured.
