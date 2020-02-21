@@ -8,7 +8,7 @@
  
  2. WP Charter boat bookings for bareboat and managed yachts
  
- 3. I love my headless team text thing. I need to go back to that and build it out even it is and always remains a free tool. 
+ 3. I love my headless team text twilio thing. I need to go back to that and build it out even it is and always remains a free tool. 
  
  5. WP Instrustor Certification
   should'nt WP have a program akin to the Adobe Certified Instructor course that certifies or qualifies a person to teach WP Users how to use WP?
