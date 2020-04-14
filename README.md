@@ -3,7 +3,7 @@ This is a brainstorming document and very stream of consciousness.
 
 - WP Charter boat bookings for bareboat and managed yachts
 
-- Easter Snaps
+- Easter Snaps | Bible Snaps
 
 - Virtual Small Groups
 
