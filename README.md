@@ -16,10 +16,8 @@ This is a brainstorming document and very stream of consciousness.
     - this is also a great growth channel for WP as a whole. If certified instructors had a turn key curriculumn for teaching an in-person course - then WP knowledge could grow grass roots through commnunity centers, churches, schools, and parks and rec. A network of workshops and classes just like yoga or anything else.
 
 - WP Omni-Channel Funnel Optimization
- so I want to build and have started to build a plugin that would provide a way for DIY or small agencies to properly coordinate GA with WP so that journeys, funnels, and conversion opportunities are tracked and measured.
- the goal is to emulate WP SEO with the amazingly clever Red, Yellow, Green Light but instead of SEO - engagement and conversion factors to measure and pass/fail content within funnels and journeys
- ideally I would take this farther than just onsite content measurement. it should include ways for WP Admins to establish triggers for transactional multichannel communication with leads and also measure the effectiveness of those communications.
- im not sure if this exists in one of the big house analytics plugins, but if it does it is not easy for someone off the street to use and understand. So for me this is all about UI and making the whole idea of Data Driven Marketing understandable and acheivable for a layperson.
-  
-
-   
+    - I would like to build a plugin that would provide a way for DIY or small agencies to properly coordinate GA with WP so that journeys, funnels, and conversion opportunities are tracked and measured.
+    - I am clear that there are tools out there, but it is my experience that a person needs a depth of marketing knowledge to use these tools. So even if a business owner had the knowledge to use WP, choose the right plugins, etc they quite likely would lack the marketing knowledge to use the tools they have been provided. 
+    - the goal is to emulate WP SEO with the amazingly clever Red, Yellow, Green Light but instead of measuring and offerint correction advice for on-site SEO, the plugin could address concerning engagement and conversion factors to measure and improve customer experience and push towards pre-established business goals.
+    - ideally I would take this farther than just onsite content measurement with Twilio and Mailgun we could include multichannel customer tracking and experience optimization. Including ways for WP Admins to establish triggers for transactional multichannel communication with leads and also measure the effectiveness of those communications.
+    - these features may be included in one or more plugins that can be combined together to get the end result, but the goal is to establish the one plugin that makes customer experience measurement and optimizationa across channels turn key for the DIY small business owner.
