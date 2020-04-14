@@ -1,13 +1,19 @@
 # Dreams
 This is a brainstorming document and very stream of consciousness.
 
-- WP Charter boat bookings for bareboat and managed yachts
+- Charter Boat Bookings: 
+  - Launch my enterprise marketplace site for fishing and sunset sails
+  - bareboat model 
+  - managed crewed yachts
+  - boat rental
+  
+- Virtual Small Groups: Basically making the idea of online small group meetings, study groups very turnkey and easily administrated. Create a platform where teachers, group hosts, and attendees can get together, share content, and do life together even if they are a world apart. The search engine research I've done shows that basically church of the highlands and saddleback dominate the space, but there really isn't a central platform. Maybe there should be? Worth a shot.
+
 
 - Easter Snaps | Bible Snaps
 
-- Virtual Small Groups
   
-- I love the headless team text twilio thing. I need to go back to that and finish building it out. Maybe it can always remain a free tool. 
+- Team Text: I love the headless team text twilio thing. I need to go back to that and finish building it out. Maybe it can always remain a free tool. I think there are a few apps out there that function in this way targeted to the educational market. But none of the ones I've used are actually easy to use or set up the feature set that I have in mind. A parent, teacher, or coach should not have to install a new app and access it to get, send, or receive messages. I really think there is a way to set this whole thing up as simply as the coach texts "new team" to xxx-xxx-xxxx. 
  
 - WP Instructor Certification
   Should'nt WP have a program akin to the Adobe Certified Instructor course that certifies or qualifies a person to teach WP Users how to use WP?
