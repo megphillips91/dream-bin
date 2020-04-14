@@ -17,9 +17,9 @@ This is a brainstorming document and very stream of consciousness.
  
 - WP Instructor Certification
   Should'nt WP have a program akin to the Adobe Certified Instructor course that certifies or qualifies a person to teach WP Users how to use WP?
-  -- The goal would be to create such a program, find sponsors, and offer scholarships to public school teachers that teach technology to elementary and middle school students. It is my experience from being a mom that at least in smaller more rural districts, the teachers do not know and therein cannot properly teach tech subjects - which now includes marketign, graphic design, etc
-  -- its not really only about school teachers. it is also about providing small agencies a way to turn-key educate thier clients to use thier websites. this is one of the biggest pain points for small agencies.
-  this is also a great growth channel for WP as a whole. If certified instructors had a turn key curriculumn for teaching an in-person course - then WP knowledge could grow grass roots through commnunity centers, churches, schools, and parks and rec. A network of workshops and classes just like yoga or anything else.
+-- The goal would be to create such a program, find sponsors, and offer scholarships to public school teachers that teach technology to elementary and middle school students. It is my experience from being a mom that at least in smaller more rural districts, the teachers do not know and therein cannot properly teach tech subjects - which now includes marketign, graphic design, etc
+-- its not really only about school teachers. it is also about providing small agencies a way to turn-key educate thier clients to use thier websites. this is one of the biggest pain points for small agencies.
+-- this is also a great growth channel for WP as a whole. If certified instructors had a turn key curriculumn for teaching an in-person course - then WP knowledge could grow grass roots through commnunity centers, churches, schools, and parks and rec. A network of workshops and classes just like yoga or anything else.
   
 
    
