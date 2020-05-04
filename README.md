@@ -1,6 +1,24 @@
 # Dreams
 This is a brainstorming document and very stream of consciousness.
 
+- WP REST API : Need to publish a plugin on the repo for autoregistration and credential security via oauth with other services. So like Nextend, but with a seamless workflow for jamstack decoupled WP apps. 
+  - autmatick user registration
+  - use token as password
+  - refresh password on same schedule as the token
+  - encrypt the password on front and back with salt before transport
+  - set up another layer of security on the endpoint via a custom api jwt cred for this particular endpoint
+   - npm package on front 
+  - repo plugin on back - designed to implement together
+  
+- Content Filter - Lets be Nice Plugin
+  - to support decoupled WP Apps | publish on repo
+  - front end and back end content filter for profanity
+  - image integration somehow 
+   - reserach this because surely there is some kind of google image service which can flag an image or video for review?
+  - user feedback implementation
+  - npm package on front 
+  - repo plugin on back - designed to implement together
+
 - Charter Boat Bookings: 
   - Launch my enterprise marketplace site for fishing and sunset sails
   - bareboat model 
