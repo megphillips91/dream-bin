@@ -2,7 +2,7 @@
 This is a brainstorming document and very stream of consciousness.
 
 - WP REST API : Need to publish a plugin on the repo for autoregistration and credential security via oauth with other services. So like Nextend, but with a seamless workflow for jamstack decoupled WP apps. 
-  - autmatick user registration
+  - automatic user registration
   - use token as password
   - refresh password on same schedule as the token
   - encrypt the password on front and back with salt before transport
